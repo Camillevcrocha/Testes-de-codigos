@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 </head>
 <body>
-<h1><font color="blue">Titulo</font></h1>
+<h1>titulo</h1>
 <p>Usar para paragrafos</p>
 <p>outro paragrafo</p>
 <ul>
@@ -17,11 +17,5 @@
 </ol>
 </font>
 </body>
-
-
-
-
-
-  
 </body>
 </html>
